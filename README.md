@@ -2,6 +2,23 @@
 
 *Ayu is a small sweetfish caught in Japanese rivers from early summer through autumn. This is how I grill it: over charcoal, in an open drum, thirty fish at once, forty-five minutes per batch. The rig is handmade and the method is simple. The judgment is the part that takes years.*
 
+<p align="center">
+  <img src="media/ayu-drum-rig.jpg" width="560" alt="Thirty salt-coated ayu standing in the sand around a charcoal fire inside a steel drum">
+</p>
+
+<p align="center"><i>Thirty fish, one fire, one person. Every skewer stands at the same distance from the coals.</i></p>
+
+## Watch it cook
+
+<p align="center">
+  <a href="media/ayu-drum-grill.mp4">
+    <img src="media/video-poster.jpg" width="380" alt="Salt-grilled ayu around charcoal — click to play the video">
+  </a>
+</p>
+
+<p align="center"><b><a href="media/ayu-drum-grill.mp4">▶ Play the video (12 seconds)</a></b><br>
+<i>Charcoal in a line down the sand. Salt on the skin. Bellies to the fire.</i></p>
+
 ## The rig
 
 A steel drum, cut in half lengthwise, makes the pit. Fill the half-drum with sand, place charcoal in a line down the center of the sand, and light it.
